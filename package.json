@@ -1,0 +1,24 @@
+{
+  "name": "quantum-visualizer",
+  "version": "1.0.0",
+  "description": "Sleek, minimalistic and user-friendly simulation for quantum visualizations.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-smyth/quantum-visualizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/the-smyth/quantum-visualizer/issues"
+  },
+  "homepage": "https://github.com/the-smyth/quantum-visualizer#readme"
+}
